@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "Name": "1. Platz der Schutzpatronin der Kanaren",
-        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/1.%20Candelaria.mp3"
+        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/1.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +17,7 @@
       "type": "Feature",
       "properties": {
         "Name": "2. Basilika von Candelaria",
-        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/2.%20Candelaria.mp3"
+        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/2.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +28,7 @@
       "type": "Feature",
       "properties": {
         "Name": "3. Kapelle San Blas und Höhle von Achbinico",
-        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/3.%20Candelaria.mp3"
+        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/3.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
       "type": "Feature",
       "properties": {
         "Name": "4. Alter Königsweg (Camino Real)",
-        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/4.%20Candelaria.mp3"
+        "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/candelaria_de/4.mp3"
       },
       "geometry": {
         "type": "Point",
